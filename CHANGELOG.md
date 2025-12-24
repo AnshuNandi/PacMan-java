@@ -13,6 +13,5 @@ Highlights
 - Packaging: Executable JAR and Windows EXE installer (bundled JRE via jpackage)
 
 Notes
-- Code licensed under MIT
 - Bundled images/audio are for educational use and not licensed for redistribution
 - “Pac‑Man” is a Bandai Namco trademark; this fan project is unaffiliated
