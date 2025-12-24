@@ -45,9 +45,8 @@ A faithful recreation of the classic PacMan arcade game built with Java Swing, f
 ## 🚀 Quick Start
 
 ### Download & Play (No Java Required)
-
 Download the latest Windows installer from the [releases](../../releases) section:
-- **PacMan-1.0.0.exe** - Self-contained installer with bundled JRE
+- **PacMan-1.0.0.exe** (bundled JRE): https://github.com/AnshuNandi/PacMan-java/releases/tag/v1.0.0
 
 ### Run from JAR (Java Required)
 
