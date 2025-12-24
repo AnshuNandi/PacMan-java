@@ -3,7 +3,6 @@
 A faithful recreation of the classic PacMan arcade game built with Java Swing, featuring authentic gameplay mechanics, ghost AI, power-ups, and sound effects.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
 ## ✨ Features
