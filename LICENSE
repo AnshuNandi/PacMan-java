@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Assets and Trademark Notice
+
+The MIT License above applies only to the source code in this repository.
+Bundled images, audio, icons, and other media assets (for example, files
+under the `src/` directory with extensions such as .png, .wav, .ico) are
+NOT covered by the MIT License and may be subject to third‑party rights.
+No license or permission for redistribution or commercial use of those
+assets is granted by this file. If you intend to publish, redistribute, or
+commercialize builds, replace these assets with ones you have rights to use
+or that are properly licensed for your purposes.
+
+“Pac‑Man” is a registered trademark of Bandai Namco. This project is a
+fan‑made educational recreation and is not affiliated with or endorsed by
+Bandai Namco.

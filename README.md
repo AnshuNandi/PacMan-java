@@ -139,7 +139,9 @@ All game assets are embedded in the JAR:
 
 ## 📝 License
 
-This project is open source and available under the MIT License.
+- Code: Licensed under the MIT License. See [LICENSE](LICENSE).
+- Assets: Images and audio in this repository (e.g., files under `src/` such as *.png, *.wav, *.ico) are included for educational/personal use only and are not licensed for redistribution or commercial use. If you plan to redistribute or publish builds, replace these assets with ones you own or that are properly licensed for your use.
+- Trademark: “Pac‑Man” is a registered trademark of Bandai Namco. This is a fan-made educational project and is not affiliated with or endorsed by Bandai Namco.
 
 ## 🙏 Acknowledgments
 
